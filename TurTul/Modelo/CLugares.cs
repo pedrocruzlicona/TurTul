@@ -12,7 +12,7 @@ using System.Data;
 
 namespace Core.Modelo
 {
-    class CLugares
+ public   class CLugares
     {
         public int Id_Lugar { get; set; }
         public string Historia { get; set; }

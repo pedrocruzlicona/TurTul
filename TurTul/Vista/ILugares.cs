@@ -10,7 +10,7 @@ using System.Data;
 
 namespace Core.Vista
 {
-    interface ILugares
+   public interface ILugares
     {
       CLugares objLugares { get; set; }
       
